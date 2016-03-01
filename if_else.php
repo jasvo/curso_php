@@ -1,4 +1,6 @@
-<?php
+<?php 
+
+     // Exemplo basico de if else
      $numero1 = 30;
      $numero2 = 40;
 
